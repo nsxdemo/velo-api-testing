@@ -4,8 +4,9 @@ import json
 import os
 from datetime import datetime
 
-# provide the vco hostname, enterprise id, API_token and base_dir
-
+################################################################
+# provide your vco_hostname, enterprise_id, API_token and base_dir
+################################################################
 
 start_time = time.time()
 vco_hostname = ''
